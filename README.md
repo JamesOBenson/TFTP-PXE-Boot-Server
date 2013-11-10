@@ -17,3 +17,7 @@ Further instructions
 ====================
 
 If you have a Synology NAS then you can follow [these instructions](http://www.pyrosoft.co.uk/blog/2013/01/13/setting-up-a-pxe-boot-server-on-synology-dsm-4-2-beta/) to set up a working PXE boot system:
+
+Clonezilla Live
+====================
+This fork includes the files needed to run an instance of Clonezilla Live allowing you to create Windows images, save them to an SMB Share on your Synology or Windows File Server and or to a local drive. Allows the ability to restore images as well to any computer on the local network that has haccess to the PXE Boot server.
